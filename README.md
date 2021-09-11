@@ -14,4 +14,4 @@ Before running the code if you don't have all the necessery libraries, you need 
 
 ## Contact With Me
 
-If you have something to say to me please contact me on [Twitter](https://twitter.com/Doguilmak). "# Pencil-and-Eraser-Classification-Convolutional-Neural-Network" 
+If you have something to say to me please contact me on [Twitter](https://twitter.com/Doguilmak).
