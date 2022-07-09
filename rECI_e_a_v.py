@@ -18,12 +18,12 @@ def r_eci(e, a, v, i, omega, w):
                    [0, m.cos(m.radians(-i)), m.sin(m.radians(-i))],
                    [0, -m.sin(m.radians(-i)), m.cos(m.radians(-i))]])
 
-    R3omega = np.array([[m.cos(m.radians(-omega)), m.sin(m.radians(-omega)), 0],
-                   [-m.sin(m.radians(-omega)), m.cos(m.radians(-omega)), 0],
+    R3omega = np.array([[m.cos(m.radians(-omega)), -m.sin(m.radians(-omega)), 0],
+                   [m.sin(m.radians(-omega)), m.cos(m.radians(-omega)), 0],
                    [0, 0, 1]])
 
-    R3w = np.array([[m.cos(m.radians(-w)), m.sin(m.radians(-w)), 0],
-                   [-m.sin(m.radians(-w)), m.cos(m.radians(-w)), 0],
+    R3w = np.array([[m.cos(m.radians(-w)), -m.sin(m.radians(-w)), 0],
+                   [m.sin(m.radians(-w)), m.cos(m.radians(-w)), 0],
                    [0, 0, 1]])
 
     R1ixR3w = np.matmul(R1i, R3w)
