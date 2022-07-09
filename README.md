@@ -40,7 +40,9 @@ $$\dfrac{a (1 - e^2)}{1 + e * \cos(v)}$$
 Results have shown below:
 
 $P = -80.8821594551 km$
+
 $Q = 40.1138553510 km$
+
 $W = 0 km$
 
 <br>
