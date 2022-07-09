@@ -3,13 +3,13 @@
 
 ## Statement
 
-**Step by step how the calculations are made is given in the .pfd file**. Excel functions are in Turkish. Randomly generated coordinates were created based on the school numbers of the students. According to your student number, true anomaly (v), satellite orbit major semi-axis ($a$), and satellite orbit eccentricity ($e$) were produced. According to these data, the perifocal ($P, Q, W$) coordinates of the satellite were calculated. Then, inclination angle ($İ^◦$), recitation angle ($Ω^◦$), and perigee argument ($ω^◦$) will be produced according to your student number. Calculate the Earth-centered Inertial (ECI) coordinates from the $PQW$ coordinates of the point you obtained from previous section.
+**Step by step how the calculations are made is given in the .pfd file**. Excel functions are in Turkish. Randomly generated coordinates were created based on the school numbers of the students. According to your student number, true anomaly (v), satellite orbit major semi-axis $(a)$, and satellite orbit eccentricity (e) were produced. According to these data, the perifocal ($P, Q, W$) coordinates of the satellite were calculated. Then, inclination angle ($İ^◦$), recitation angle ($Ω^◦$), and perigee argument ($ω^◦$) will be produced according to your student number. Calculate the Earth-centered Inertial (ECI) coordinates from the $PQW$ coordinates of the point you obtained from previous section.
 
 <br>
 
 ### Calculation coordinates of  $P, Q ,W$
 
-The values ​​corresponding to my number in the project are given below. Perifocal coordinates have been calculated by taking the values ​​of a value in meters and kilometers as reference. Since the calculations are in 2 dimensional plane, omega value is taken as 0. Calculations are made in units of kilometers.
+The values ​​corresponding to my number in the project are given below. Perifocal coordinates have been calculated by taking the values of a value in meters and kilometers as reference. Since the calculations are in 2 dimensional plane, omega value is taken as 0. Calculations are made in units of kilometers.
 
 **True anomaly:**
 
