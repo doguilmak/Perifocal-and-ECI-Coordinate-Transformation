@@ -93,8 +93,8 @@ sin\theta & cos\theta & 0\\
 0 & 0  & 1
 \end{vmatrix*}$$
 
-    R3z = np.array([[m.cos(m.radians(-a)), m.sin(m.radians(-a)), 0],
-                   [-m.sin(m.radians(-a)), m.cos(m.radians(-a)), 0],
+    R3z = np.array([[m.cos(m.radians(-a)), -m.sin(m.radians(-a)), 0],
+                   [m.sin(m.radians(-a)), m.cos(m.radians(-a)), 0],
                    [0, 0, 1]])
 
 <br>
