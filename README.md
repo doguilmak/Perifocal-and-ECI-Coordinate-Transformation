@@ -17,7 +17,7 @@ $v^◦ = 153^◦. 620668966$
 
 **Satellite orbit major half-axis:**
 
-$a = 9131.00835200 \medspace m$
+$a = 9131.00835200\medspace m$
 
 **Satellite orbital axiality:**
 
