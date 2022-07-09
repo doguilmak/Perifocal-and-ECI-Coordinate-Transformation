@@ -17,7 +17,7 @@ $v^◦ = 153^◦. 620668966$
 
 **Satellite orbit major half-axis:**
 
-$a = 9131.00835200 \medspace m$
+$a = 9131.00835200 m$
 
 **Satellite orbital axiality:**
 
@@ -27,7 +27,7 @@ $e = 7.704$
 
 We can calculate $P, Q ,W$ coordinates with following equation.
 
-$$r(PQW) =\dfrac{a (1 - e^2)}{1 + e * \cos(v)} \medspace * \medspace\begin{matrix*}[r]  
+$$r(PQW) =\dfrac{a (1 - e^2)}{1 + e * \cos(v)} * \begin{matrix*}[r]  
 cos(v) \\  
 sin(v) \\
 0
@@ -39,9 +39,9 @@ $$\dfrac{a (1 - e^2)}{1 + e * \cos(v)}$$
 
 Results have shown below:
 
-$P = -80.8821594551 \medspace km$
-$Q = 40.1138553510 \medspace km$
-$W = 0 \medspace km$
+$P = -80.8821594551 km$
+$Q = 40.1138553510 km$
+$W = 0 km$
 
 <br>
 
@@ -104,7 +104,7 @@ $rECI = R_z(-\Omega) ⋅ R_x(-i) ⋅ R_z(-\omega) ⋅ rPQW$
 
 ECI coordinates have shown below:
 
-$$rECI = \medspace\begin{matrix*}[r]  
+$$rECI = \begin{matrix*}[r]  
 37.43159216 \\  
 45.83655056 \\
 68.18307452
