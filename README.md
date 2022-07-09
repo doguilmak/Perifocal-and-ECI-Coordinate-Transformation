@@ -3,13 +3,13 @@
 
 ## Statement
 
-**Step by step how the calculations are made is given in the .pfd file**. Excel functions are in Turkish. Randomly generated coordinates were created based on the school numbers of the students. According to your student number, true anomaly (v), satellite orbit major semi-axis $(a)$, and satellite orbit eccentricity (e) were produced. According to these data, the perifocal ($P, Q, W$) coordinates of the satellite were calculated. Then, inclination angle ($İ^◦$), recitation angle ($Ω^◦$), and perigee argument ($ω^◦$) will be produced according to your student number. Calculate the Earth-centered Inertial (ECI) coordinates from the $PQW$ coordinates of the point you obtained from previous section.
+**Step by step how the calculations are made is given in the .pfd file**. Excel functions are in Turkish. Randomly generated coordinates were created based on the school numbers of the students. According to your student number, true anomaly $(v^◦)$, satellite orbit major semi-axis $(a)$, and satellite orbit eccentricity $(e)$ were produced. According to these data, the perifocal $(P, Q, W)$ coordinates of the satellite were calculated. Then, inclination angle $(İ^◦)$, recitation angle $(Ω^◦)$, and perigee argument $(ω^◦)$ will be produced according to your student number. Calculate the Earth-centered Inertial (ECI) coordinates from the $PQW$ coordinates of the point you obtained from previous section.
 
 <br>
 
 ### Calculation coordinates of  $P, Q ,W$
 
-The values ​​corresponding to my number in the project are given below. Perifocal coordinates have been calculated by taking the values of a value in meters and kilometers as reference. Since the calculations are in 2 dimensional plane, omega value is taken as 0. Calculations are made in units of kilometers.
+The values corresponding to my number in the project are given below. Perifocal coordinates have been calculated by taking the values of a value in meters and kilometers as reference. Since the calculations are in 2 dimensional plane, omega value is taken as 0. Calculations are made in units of kilometers.
 
 **True anomaly:**
 
@@ -17,7 +17,7 @@ $v^◦ = 153^◦. 620668966$
 
 **Satellite orbit major half-axis:**
 
-$a = 9131.00835200 \medspace m $
+$a = 9131.00835200 \medspace m$
 
 **Satellite orbital axiality:**
 
@@ -47,7 +47,7 @@ $W = 0 \medspace km$
 
 ### Calculation coordinates of ECI
 
-The ECI coordinate system is a fixed inertial coordinate system with respect to the stars. ECI being fixed with respect to the stars means that it does not rotate with the earth (non-rotating). The values ​​corresponding to my number in the project are given below.
+The ECI coordinate system is a fixed inertial coordinate system with respect to the stars. ECI being fixed with respect to the stars means that it does not rotate with the earth (non-rotating). The values corresponding to my number in the project are given below.
 
 **Angle of inclination:**
 $$İ^◦ = 58^◦. 32222222$$
