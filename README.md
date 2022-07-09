@@ -112,9 +112,9 @@ $$rECI = R_z(-\Omega) ⋅ R_x(-i) ⋅ R_z(-\omega) ⋅ rPQW$$
 ECI coordinates have shown below:
 
 $$rECI = \begin{matrix*}[r]  
-37.43159216 \\  
-45.83655056 \\
-68.18307452
+-42.49228954 \\  
+-38.99876903 \\
+-69.45368591
 \end{matrix*}$$
 
 ## How to Run Code
