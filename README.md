@@ -101,7 +101,7 @@ sin\theta & cos\theta & 0\\
 
 To calculate rECI, we need to make matrix multiplication using our rotation matrices.
 
-$rECI = R_z(-\Omega) ⋅ R_x(-i) ⋅ R_z(-\omega) ⋅ rPQW$
+$$rECI = R_z(-\Omega) ⋅ R_x(-i) ⋅ R_z(-\omega) ⋅ rPQW$$
 
     R1ixR3w = np.matmul(R1i, R3w)
     R3wR1R3 = np.matmul(R3omega, R1ixR3w)
