@@ -51,7 +51,7 @@ $W = 0 km$
 
 The ECI coordinate system is a fixed inertial coordinate system with respect to the stars. ECI being fixed with respect to the stars means that it does not rotate with the earth (non-rotating). The values corresponding to my number in the project are given below.
 
-**Angle of inclination:
+Angle of inclination:
 
 $$İ^◦ = 58^◦. 32222222$$
 
